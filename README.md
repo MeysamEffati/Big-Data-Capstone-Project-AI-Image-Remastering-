@@ -1,4 +1,4 @@
-# AI Image Remastering - Big Data Capstone Project
+# AI Image Remastering
 
 This project leverages the Real-ESRGAN model for image restoration. It features a web interface built using Flask, allowing users to upload low-resolution images, enhance them using the model, and download the restored images.
 
